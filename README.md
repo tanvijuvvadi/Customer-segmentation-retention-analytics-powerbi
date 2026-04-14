@@ -1,13 +1,15 @@
 📊 Customer Segmentation & Retention Analytics (Power BI)
+
 🧾 Overview
-This project focuses on analyzing customer behavior using segmentation and retention metrics.
-The dashboard provides actionable insights into customer value, churn risk, and revenue contribution.
+This project analyzes customer behavior using segmentation and retention metrics.
+It helps identify high-value customers, churn patterns, and revenue contribution to support data-driven decisions.
 
 🎯 Objectives
 Identify high-value customer segments
-Analyze customer retention and churn patterns
-Understand revenue contribution by segment and gender
-Enable data-driven decision-making
+Analyze retention and churn rates
+Understand revenue contribution by segment
+Provide actionable business insights
+
 
 🛠️ Tools & Technologies
 Power BI
@@ -22,48 +24,17 @@ Data Visualization
 ⚠️ Churn Rate (%)
 🔁 Repeat Customers
 🚨 At Risk Customers (%)
-📊 Dashboard Preview
-🔝 KPI Overview
 
-📊 Customer Revenue Breakdown
-Segment-wise revenue comparison
-Identifies top-performing customer groups
 
-👥 Segment & Gender Analysis
-Revenue contribution by gender within each segment
-Helps understand customer demographics
+📈 Key Insights
+High-value segments contribute most revenue
+Significant churn observed among customers
+At-risk customers need targeted strategies
+Revenue varies across segments
 
-🍩 Retention Status Distribution
-Shows proportion of:
-Retained customers
-Churned customers
-At-risk customers
-
-📉 Revenue Distribution Across Segments
-Visual comparison of revenue contribution
-
-📋 Detailed Table Insights
-Segment-wise:
-Total revenue
-Customer count
-Retention breakdown
-
-🎛️ Features
-Interactive slicers (Region, Loyalty Tier, Date)
-Dynamic filtering across visuals
-Drill-down capabilities
-Clean and user-friendly UI
-
-💡 Key Insights
-Champions segment generates the highest revenue
-High churn rate indicates retention improvement needed
-At-risk customers require targeted engagement strategies
-Gender-based insights help refine marketing campaigns
 
 🚀 Business Impact
-This dashboard helps businesses:
-
-Improve customer retention
-Increase revenue through targeted strategies
-Identify high-value customers
-Reduce churn effectively
+Improves customer retention strategies
+Helps reduce churn
+Enables better decision-making
+Identifies growth opportunities
